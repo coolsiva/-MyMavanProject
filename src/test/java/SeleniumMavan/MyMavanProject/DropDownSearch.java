@@ -38,9 +38,9 @@ public class DropDownSearch {
 		je.executeScript("scroll(0,400)");
 		
 		try {
-			Thread.sleep(5000);
+			Thread.sleep(7500);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+		
 			e.printStackTrace();
 		}
 		driver.quit();
